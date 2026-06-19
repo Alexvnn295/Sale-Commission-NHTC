@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Hoa hồng Sales",
+  "description": "Hệ thống quản lý, tính toán hoa hồng linh động và dự phòng thuế TNCN tự động cho đội ngũ kinh doanh theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
